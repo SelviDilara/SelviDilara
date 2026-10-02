@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="218" viewBox="0 0 490 218" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">
+<rect width="100%" height="100%" rx="12" fill="#0d1117"/>
+<circle cx="24" cy="22" r="6" fill="#ff5f56"/>
+<circle cx="44" cy="22" r="6" fill="#ffbd2e"/>
+<circle cx="64" cy="22" r="6" fill="#27c93f"/>
+<text x="245.0" y="27" text-anchor="middle" fill="#39d353" font-size="14">@github@SelviDilara</text>
+<g style="opacity:0;animation:fadeIn .5s ease-out 0.00s forwards"><text x="24" y="66" fill="#39d353" font-size="15" font-weight="600">Name</text><text x="144" y="66" fill="#c9d1d9" font-size="15">Selvi Dilara KAHRAMAN</text></g>
+<g style="opacity:0;animation:fadeIn .5s ease-out 0.15s forwards"><text x="24" y="100" fill="#69f0a0" font-size="15" font-weight="600">Focus</text><text x="144" y="100" fill="#c9d1d9" font-size="15">Yazılım Geliştirici</text></g>
+<g style="opacity:0;animation:fadeIn .5s ease-out 0.30s forwards"><text x="24" y="134" fill="#26a641" font-size="15" font-weight="600">Stack</text><text x="144" y="134" fill="#c9d1d9" font-size="15">C# · Python · SQL · Github</text></g>
+<g style="opacity:0;animation:fadeIn .5s ease-out 0.45s forwards"><text x="24" y="168" fill="#006d32" font-size="15" font-weight="600">GitHub</text><text x="144" y="168" fill="#c9d1d9" font-size="15">github.com/SelviDilara</text></g>
+<style>@keyframes fadeIn{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:translateX(0)}}</style>
+</svg>
