@@ -89,13 +89,11 @@ Projelerimde özellikle şu yaklaşımı benimsemeye çalışıyorum:
 * Eğitim amaçlı yazılım projeleri
 * Gerçek dünya senaryolarına yönelik uygulamalar
 * Problem çözme ve algoritma çalışmaları
-
 bulunuyor.
 
 
 ### STOK360 (Otomasyon):
 https://github.com/SelviDilara/Stok360-Stok-Yonetim-Satis-Raporlama-Sistemi
-
 
 ve daha nicesi sizleri çalışma alanımdaki repolarda bekliyor.
 
@@ -146,7 +144,6 @@ Bu profilde ağırlıklı olarak:
 * Eğitim projeleri
 * Uygulama geliştirme çalışmaları
 * Öğrenme ve araştırma amaçlı projeler
-
 bulabilirsiniz.
 
 ---
@@ -158,9 +155,6 @@ bulabilirsiniz.
 
 **Github:**
 https://github.com/SelviDilara
-
-**Instagram:**
-https://www.instagram.com/selvidilaraa
 
 ---
 
